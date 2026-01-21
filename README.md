@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Carlos Magno do Brasil 🇧🇷
+# 👋 Olá, eu sou Carlos Magno
 
 **Desenvolvedor Full Stack** focado em soluções web e mobile com paixão por tecnologia de impacto.
 
