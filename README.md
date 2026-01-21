@@ -66,17 +66,15 @@ Coleção de scripts para cybersecurity
 ---
 
 ## 📈 Minhas Habilidades
-Python ██████████ 90%
+Python ██████████ 80%
 JavaScript ██████████ 85%
-Flutter ██████████ 80%
+Flutter ██████████ 70%
 PHP ████████▌ 75%
-Rust ██████▌ 65%
+Rust ██████▌ 35%
 MySQL ██████████ 85%
-Git ██████████ 90%
-Linux ██████████ 85%
-Cybersecurity ████████▌ 75%
-
-text
+Git ██████████ 80%
+Linux ██████████ 65%
+Cybersecurity ████████▌ 53%
 
 ---
 
@@ -84,18 +82,11 @@ text
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-7aa550181/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CMagnno)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.magnot13@gmail.com)
   
 </div>
-
----
-
-## 🏆 Conquistas
-
-![](https://github-profile-trophy.vercel.app/?username=CMagnno&theme=darkhub&no-frame=true&row=2&column=4)
 
 ---
 
@@ -111,27 +102,11 @@ text
 
 ---
 
-## 🎮 Curiosidades
+##  Curiosidades
 
 ```text
-💻 Sistema Operacional: Linux (Arch/Ubuntu)
+🎮 Jogos: CS, Valorant, Ghost of Yotei
 🎨 Editor de Código: VS Code
-🎵 Ouvindo enquanto programa: Lo-Fi / Synthwave
-☕ Combustível: Café preto
-📚 Livro técnico favorito: "The Rust Programming Language"
-🎯 Metas 2024: Dominar Rust, contribuir para open source
-<div align="center">
-https://komarev.com/ghpvc/?username=CMagnno&color=blueviolet&style=flat-square
+🎯 Metas 2026: Dominar Rust, contribuir para open source
 
 ⭐ "Transformando problemas em soluções através do código." ⭐
-
-</div>
-<details> <summary>📊 Mais estatísticas (clique para expandir)</summary>
-📅 Gráfico de contribuições
-https://github-readme-activity-graph.vercel.app/graph?username=CMagnno&theme=github-dark
-
-📦 Repositórios populares
-https://github-readme-stats.vercel.app/api/pin/?username=CMagnno&repo=Theta&theme=dark
-https://github-readme-stats.vercel.app/api/pin/?username=CMagnno&repo=Nummus&theme=dark
-
-</details>
