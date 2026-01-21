@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Olá, sou Carlos Magno, do Brasil 🇧🇷, desenvolvedor Full Stack focado em soluções web e mobile, com paixão por tecnologia de impacto.
 
-<!--
-**CMagnno/CMagnno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente trabalho como desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+Desenvolvendo soluções com foco em aplicativos web e mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Aprendendo cibersegurança avançada
+
+Rust para programação de sistemas
+
+Robótica com sistemas embarcados (ESP32)
+
+⚡ Hobbies e Interesses ♟ Jogador de xadrez
+
+Experimentando com scripts de automação em Python
+
+Explorando ferramentas de hacking ético
+
+Resolução criativa de problemas
+
+🛠️ Conjunto de tecnologias
+
+Python Ferrugem Flutter PHP MySQL Git Linux C++ C# Java Dardo
+🚀 Projetos em destaque: Theta – Aplicativo para conectar equipes esportivas universitárias
+Nummus – aplicativo inteligente de finanças pessoais com chatbot e IA
+
+💡 Filosofia: Apaixonado por tecnologia, resolução criativa de problemas e desenvolvimento de soluções que realmente impactam a vida das pessoas.
